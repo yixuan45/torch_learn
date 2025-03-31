@@ -1,0 +1,5 @@
+Epoch:0	train_accuracy:0.316	train_loss:2.228	test_accuracy:0.452	test_loss:2.149
+Epoch:1	train_accuracy:0.536	train_loss:2.025	test_accuracy:0.565	test_loss:1.875
+Epoch:2	train_accuracy:0.595	train_loss:1.683	test_accuracy:0.603	test_loss:1.505
+Epoch:3	train_accuracy:0.629	train_loss:1.359	test_accuracy:0.633	test_loss:1.246
+Epoch:4	train_accuracy:0.648	train_loss:1.152	test_accuracy:0.647	test_loss:1.086

@@ -1,0 +1,16 @@
+{"time":"2025-03-31T21:31:14.5840663+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"E:\\pythonProjet\\pytorch_demo\\torch_relearn\\pytorch训练基础与数据可视化\\wandb\\run-20250331_213114-1wex4md3\\logs\\debug-core.log"}
+{"time":"2025-03-31T21:31:14.7164065+08:00","level":"INFO","msg":"created new stream","id":"1wex4md3"}
+{"time":"2025-03-31T21:31:14.7164945+08:00","level":"INFO","msg":"stream: started","id":"1wex4md3"}
+{"time":"2025-03-31T21:31:14.7164945+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"1wex4md3"}
+{"time":"2025-03-31T21:31:14.7164945+08:00","level":"INFO","msg":"handler: started","stream_id":"1wex4md3"}
+{"time":"2025-03-31T21:31:14.7164945+08:00","level":"INFO","msg":"sender: started","stream_id":"1wex4md3"}
+{"time":"2025-03-31T21:31:15.6310269+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T21:31:15.7108911+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-31T21:31:15.7108911+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-31T21:31:16.7190323+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.7390761,"progress":"1.2KB/1.2KB"},{"desc":"uploading requirements.txt","runtime_seconds":0.6715588,"progress":"1.4KB/1.4KB"},{"desc":"uploading history steps 0-0, summary","runtime_seconds":0.3849893},{"desc":"updating run config","runtime_seconds":0.3823616},{"desc":"uploading output.log","runtime_seconds":0.0435754},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0435754,"progress":"143B/143B"}],"total_operations":6}}
+{"time":"2025-03-31T21:31:17.5962138+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-31T21:31:18.5586693+08:00","level":"INFO","msg":"stream: closing","id":"1wex4md3"}
+{"time":"2025-03-31T21:31:18.5586693+08:00","level":"INFO","msg":"handler: closed","stream_id":"1wex4md3"}
+{"time":"2025-03-31T21:31:18.5586693+08:00","level":"INFO","msg":"sender: closed","stream_id":"1wex4md3"}
+{"time":"2025-03-31T21:31:18.5586693+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1wex4md3"}
+{"time":"2025-03-31T21:31:18.5586693+08:00","level":"INFO","msg":"stream: closed","id":"1wex4md3"}
